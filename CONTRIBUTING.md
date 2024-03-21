@@ -30,4 +30,8 @@ For example for Windows, Linux and Mac.
 
 ---
 
-## 3.
+## 3. Commits
+
+It is required to Sign Commits.
+To use this feature you will need to execute `git push -u origin main` for example.
+The `-u` flag is required in order to see that the commit is verified.
