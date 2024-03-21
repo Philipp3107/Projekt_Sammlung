@@ -11,3 +11,5 @@ add_all:
 	git add .
 
 push_all: add_all commit signed_commit
+
+# usage : make push_all branch=`branch` message=`Message`
