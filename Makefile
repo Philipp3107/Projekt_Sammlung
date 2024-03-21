@@ -4,10 +4,10 @@ signed_commit:
 
 commit:
 	@echo "Running 'git commit -m $(message)'"
-	git commit -m $(message)
+	git commit -m '$(message)'
 
 add_all:
 	@echo "Running 'git add .'"
 	git add .
 
-push_all: add_all signed_commit
+push_all: add_all commit signed_commit
