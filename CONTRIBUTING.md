@@ -13,3 +13,21 @@ For given Projects the accessible and needed IDE from Jetbrains need to be used.
 | C/c++               | CLion               |
 | Python              | PyCharm             |
 | Html/Php/Javascript | WEbStorm / PhpStorn |
+
+---
+
+## 2. Language
+
+### 2.1 Version
+
+If for the used Language, an Updated or a new Patch is available, this version will be used or the project will be adapted
+to it as soon as possible to provide an up-to-date version.
+
+### 2.2 Platform
+
+If it is possible to write code simultaniously for multiple Platforms it is requierd to do so.
+For example for Windows, Linux and Mac.
+
+---
+
+## 3.
